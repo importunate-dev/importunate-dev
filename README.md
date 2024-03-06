@@ -18,7 +18,6 @@ Saladlab IT Solution(23.11 ~)
 <div align="right">
 
 <a href="https://solved.ac/profile/junsoopooh"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junsoopooh"/></a>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=junsoopooh)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
